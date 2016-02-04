@@ -1,3 +1,3 @@
 # Vue Github Stream
 
-Github stream powered by Vuejs
+Github stream component powered by Vuejs adn Stylus.
