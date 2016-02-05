@@ -1,7 +1,7 @@
 <template>
   <div class="github">
     <header class="github__header">
-      <h1>Github Stream for {{ actor.name }}</h1>
+      <h1>Github Stream of {{ actor.name }}</h1>
     </header>
     <div class="github__stream" v-bind:style="{ 'max-height': this.size + 'px' }" v-bind:class="{ 'github__stream--expanded': expanded}">
       <div v-if="error.lenght == 0">
