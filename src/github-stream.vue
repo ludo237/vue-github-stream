@@ -15,8 +15,8 @@
         </li>
       </ul>
       <div class="github__expander" @click="this.expanded = !this.expanded">
-        <div v-if="!expanded">Show More</div>
-        <div v-else>Show Less</div>
+        <div v-if="!expanded">More Activities</div>
+        <div v-else>Less Activities</div>
       </div>
     </div>
   </div>
