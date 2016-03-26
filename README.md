@@ -1,6 +1,6 @@
 # Vue Github Stream
 
-Github stream component powered by Vuejs adn Stylus.
+Github stream component powered by Vuejs and Stylus.
 
 ## How to use
 
