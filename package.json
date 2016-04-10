@@ -1,7 +1,7 @@
 {
   "name": "vue-github-stream",
   "version": "1.0.0",
-  "description": "Github activities stream powered by Vuejs",
+  "description": "Github activities stream powered by Vuejs and Stylus",
   "scripts": {
     "clean": "rm npm-debug.log",
     "build": "",
