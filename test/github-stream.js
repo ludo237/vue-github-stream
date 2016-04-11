@@ -1,4 +1,5 @@
-import Vue from "vue"
+
+import Vue from "vue";
 import GithubStream from "src/github-stream.vue";
 
 // Component test

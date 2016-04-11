@@ -25,10 +25,10 @@
 <script>
 "use strict";
 
-// Third party libraries
+// Third party libraries the only dependency we have in order to created
+// a nice human-like timestamp
 import moment from "moment";
 
-// The main logic of the component it
 export default {
    // Attributes that come from the HTML Tag
    // Useful for some settings
